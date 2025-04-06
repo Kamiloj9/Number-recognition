@@ -7,7 +7,7 @@ This project implements a **handwritten digit recognition** system in **C++**, t
 ## Features
 
 1. **Neural Network from Scratch**  
-   - A simple 2-layer (or more) neural network using only standard C++ libraries for matrix and vector operations (plus your own `math.hpp` utilities).
+   - A simple 2-layer neural network using only standard C++ libraries for matrix and vector operations.
    - Supports **forward propagation**, **backpropagation**, and **cross-entropy** loss.
 
 2. **MNIST Data Loading**  
